@@ -1,4 +1,7 @@
 # 3c.CREATION FOR FILE TRANSFER USING TCP SOCKETS
+## NAME: ADHITHYA PERUMAL D
+
+## REG.NO: 212222230007
 ## AIM
 To write a python program for creating File Transfer using TCP Sockets Links
 ## ALGORITHM:
